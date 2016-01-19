@@ -1,4 +1,4 @@
 AngularJS-websocket
 ===================
 
-An Angularjs app made with websocket
+An AngularJS app made with websocket
